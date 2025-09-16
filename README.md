@@ -45,11 +45,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhananjay155&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay155&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://streak-stats.demolab.com/?user=dhananjay155&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay155&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<!-- Optional: Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay155&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
 </div>
 
 ## 🎯 Featured Projects
@@ -60,8 +65,8 @@ Enterprise-level legal case management platform with role-based access control a
 ### 🤖 SmartCV AI - Intelligent Resume Builder
 AI-powered CV generation platform with customizable templates and dynamic content management.
 
-### 🕷️ Court Data Automation Suite
-Scalable web scraping solutions for judicial data collection from multiple court management systems.
+### 🕷️ Real Doc's
+RealDocs is a web-based document management and note-taking application inspired by Notion. It enables users to create, edit, organize, and manage their content in a highly customizable and user-friendly environment. 
 
 ## 🌐 Connect with me
 
